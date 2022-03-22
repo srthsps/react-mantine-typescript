@@ -1,0 +1,9 @@
+.main-content {
+    margin-left: 320px;
+    overflow: hidden;
+}
+.main-content .content {
+    padding: 0 15px 10px 15px;
+    /* margin-top: 10px; */
+}
+
